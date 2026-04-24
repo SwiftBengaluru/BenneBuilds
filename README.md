@@ -6,7 +6,7 @@
 
 - [Introduction](#-introduction)
 - [Editions](#-editions)
-- [Images](#-images)
+- [Photos](#-photos)
 - [Manifesto](#-manifesto)
 - [Social Media](#-social-media)
 
@@ -65,10 +65,7 @@ Every edition will bring together a thoughtful mix of builders from across the A
 
 - [Edition 0: BenneBuilds - The Beginning](BenneBuilds%20-%20The%20Beginning/BenneBuilds-TheBeginning.md)
 
-## 📸 Images
-
-Add images to the `assets` directory with the `pic-` prefix.
-
+## 📸 Photos
 
 |                    |                    |
 | ------------------ | ------------------ |
