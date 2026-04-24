@@ -1,10 +1,10 @@
 # 🧈 Edition Zero: BenneBuilds - The Beginning
 
-Benne Builds
-
-## 📚 Table of Contents
+![Benne Builds](https://github.com/SwiftBengaluru/BenneBuilds/raw/main/assets/Benne%20Builds.png)
 
 ### Builders
+
+![Benne Builds -- Group](https://github.com/SwiftBengaluru/BenneBuilds/raw/main/assets/pic-1.jpeg)
 
 - [Participant 01](#-participant-01)
 - [Participant 02](#-participant-02)
@@ -22,8 +22,6 @@ Benne Builds
 - [Gokul Boopathy](#-gokul-boopathy)
 - [Raj Raval](#-raj-raval)
 
-Benne Builds Group
-
 ## 🎤 Demos
 
 ### ✨ Participant 01
@@ -33,7 +31,7 @@ Designation · Designer / Product / Tech / Non Tech / Community Chap / Student
 
 Coming soon.
 
-#### Simulator / Desktop Video
+
 
 Coming soon.
 
@@ -44,7 +42,7 @@ Designation · Designer / Product / Tech / Non Tech / Community Chap / Student
 
 Coming soon.
 
-#### Simulator / Desktop Video
+
 
 Coming soon.
 
@@ -55,7 +53,7 @@ Designation · Designer / Product / Tech / Non Tech / Community Chap / Student
 
 Coming soon.
 
-#### Simulator / Desktop Video
+
 
 Coming soon.
 
@@ -66,7 +64,7 @@ Designation · Designer / Product / Tech / Non Tech / Community Chap / Student
 
 Coming soon.
 
-#### Simulator / Desktop Video
+
 
 Coming soon.
 
@@ -77,7 +75,7 @@ Designation · Designer / Product / Tech / Non Tech / Community Chap / Student
 
 Coming soon.
 
-#### Simulator / Desktop Video
+
 
 Coming soon.
 
@@ -88,7 +86,7 @@ Designation · Designer / Product / Tech / Non Tech / Community Chap / Student
 
 Coming soon.
 
-#### Simulator / Desktop Video
+
 
 Coming soon.
 
@@ -99,7 +97,7 @@ Designation · Designer / Product / Tech / Non Tech / Community Chap / Student
 
 Coming soon.
 
-#### Simulator / Desktop Video
+
 
 Coming soon.
 
@@ -110,7 +108,7 @@ Designation · Designer / Product / Tech / Non Tech / Community Chap / Student
 
 Coming soon.
 
-#### Simulator / Desktop Video
+
 
 Coming soon.
 
@@ -120,8 +118,6 @@ Coming soon.
 Designation · Designer / Product / Tech / Non Tech / Community Chap / Student
 
 Coming soon.
-
-#### Simulator / Desktop Video
 
 Coming soon.
 
@@ -134,8 +130,6 @@ Benne Builds Ambassador · Community Chap · Tech
 
 A kitty for your macOS that follows your cursor around and you can interact with it using local LLMs with the help of MLX - completely offline.
 
-#### Simulator / Desktop Video
-
 [▶️ Watch Desktop Demo](https://www.youtube.com/shorts/0ucHEvG_La0)
 
 ### 🍎 Gokul Boopathy
@@ -145,7 +139,6 @@ Swift Bengaluru Core Team Member · Community Chap · Tech
 
 Coming soon.
 
-#### Simulator / Desktop Video
 
 ### 🚀 Raj Raval
 
@@ -157,8 +150,6 @@ This is what I built with AI for fun while having the benne at Benne Builds.
 A macOS SwiftUI version of the classic game "Desktop Destroyer"
 
 Inspired by my friends who cancel plan at the end moment which wanted me to unleash my anger on them metaphorically......
-
-#### Simulator / Desktop Video
 
 [▶️ Watch Demo](https://x.com/rajhraval/status/2046624494035558853?s=20)
 
