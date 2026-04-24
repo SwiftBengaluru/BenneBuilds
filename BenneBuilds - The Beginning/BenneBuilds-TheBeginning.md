@@ -1,6 +1,6 @@
 # 🧈 Edition Zero: BenneBuilds - The Beginning
 
-![Benne Builds](../assets/Benne%20Builds.png)
+Benne Builds
 
 ## 📚 Table of Contents
 
@@ -22,7 +22,7 @@
 - [Gokul Boopathy](#-gokul-boopathy)
 - [Raj Raval](#-raj-raval)
 
-![Benne Builds Group](../assets/pic-1.jpeg)
+Benne Builds Group
 
 ## 🎤 Demos
 
