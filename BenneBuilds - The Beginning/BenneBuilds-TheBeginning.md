@@ -147,15 +147,19 @@ Coming soon.
 
 #### Simulator / Desktop Video
 
-Coming soon.
-
 ### 🚀 Raj Raval
 
-**Demo coming soon by** [@rajhraval](https://x.com/rajhraval)  
+**Desktop Destroyer by** [@rajhraval](https://x.com/rajhraval)  
 Swift Bengaluru Core Team Member · Community Chap · Tech
 
-Coming soon.
+This is what I built with AI for fun while having the benne at Benne Builds.
+
+A macOS SwiftUI version of the classic game "Desktop Destroyer"
+
+Inspired by my friends who cancel plan at the end moment which wanted me to unleash my anger on them metaphorically......
 
 #### Simulator / Desktop Video
 
-Coming soon.
+[▶️ Watch Demo](https://x.com/rajhraval/status/2046624494035558853?s=20)
+
+#BuiltAtBenneBuilds
