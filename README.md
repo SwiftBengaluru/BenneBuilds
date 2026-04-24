@@ -52,16 +52,16 @@ Every edition will bring together a thoughtful mix of builders from across the A
 
 - 🎨 **Designers**
 - 🍎 **Swift Bengaluru Patrons**
-- 🎓 **Student Patrons**
+- 🎓 **Students**
+- 👩‍💻👨‍💻 **Developers**
 - 👩‍💻 **Atleast 40%+ Women Representation**
 
 ### 📖 Story Behind Benne Builds
 
+<img width="590" height="471" alt="image" src="https://github.com/user-attachments/assets/89f39955-8602-4282-a2f4-bfa4c4f4ead2" />
 
 
-
-
-## 🗂️ Editions
+### 🗂️ Editions
 
 - [Edition 0: BenneBuilds - The Beginning](BenneBuilds%20-%20The%20Beginning/BenneBuilds-TheBeginning.md)
 
